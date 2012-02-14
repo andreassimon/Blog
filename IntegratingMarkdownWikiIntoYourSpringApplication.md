@@ -34,7 +34,7 @@ Controller
         }
 
         @RequestMapping(value = "/wiki/{pageName}", method=RequestMethod.GET)
-            public ModelAndView wikiPage(@PathVariable String pageName) throws Exception {
+        public ModelAndView wikiPage(@PathVariable String pageName) throws Exception {
             String wikiFileName = format("/WEB-INF/wiki/%s.md", pageName);
             Reader reader = _resourceReaderFactory.createResourceReader(wikiFileName);
 
@@ -65,7 +65,10 @@ MarkdownView
         static Markdown markdown = new Markdown();
 
         @Override
-        protected void renderMergedOutputModel(Map<String, Object> model, HttpServletRequest request, HttpServletResponse response) throws Exception {
+        protected void renderMergedOutputModel(
+          Map<String, Object> model,
+          HttpServletRequest request,
+          HttpServletResponse response) throws Exception {
             Reader reader = (Reader) model.get("reader");
             Writer writer = response.getWriter();
             markdown.transform(reader, writer);
