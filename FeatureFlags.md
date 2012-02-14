@@ -21,8 +21,12 @@ My opinion about feature branches is based on the articles of [Martin Fowler](ht
 [feature toggles](http://martinfowler.com/bliki/FeatureToggle.html), and [semantic merge conflicts](http://martinfowler.com/bliki/SemanticConflict.html).
 
 The basic problem about feature branches is the deferred merging. It is a long known fact that the cost of bug fixing correlates with the length of the time span between bug creation and bug detection.
-By creating a new branch for each new feature / ticket, you avoid early, continuous integration. When you have to integrate later on---before pushing and making the pull request---your knowledge is not as fresh as at the time writing the new code. Thus, it might be harder to fix merge conflicts---be it obvious conflicts detected by your version control system, or hidden
-[semantic conflicts](http://martinfowler.com/bliki/SemanticConflict.html) with the code of your team mates. That is why I tend to prefer continuous integration in the trunk / master of your project.
+By creating a new branch for each new feature / ticket, you avoid early, continuous integration.
+When you have to integrate later on---before pushing and making the pull request---your knowledge is
+not as fresh as at the time writing the new code. Thus, it might be harder to fix merge
+conflicts---be it obvious conflicts detected by your version control system, or hidden
+[semantic conflicts](http://martinfowler.com/bliki/SemanticConflict.html) with the code of your team
+mates. That is why I tend to prefer continuous integration in the trunk / master of your project.
 
 When everybody commits to the same branch, you are faced with another problem: what do you do with not-yet-finished features that you don't want to release yet? Martin Fowler advices
 the use of [feature toggles](http://martinfowler.com/bliki/FeatureToggle.html), a.k.a feature flags. The idea is basically this: you create a single point in your code where you manage
