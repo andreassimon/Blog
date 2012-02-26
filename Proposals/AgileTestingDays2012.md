@@ -15,16 +15,16 @@ Learn how to involve the customer not only through acceptance tests, but also th
 custom made programming languages focused on your particular domain.
 
 ATDD facilitates the transformation of customer requirements to working software.
-One of the best parts is the evolution of a common language from
+One of the core benefits is the evolution of a common language from
 the existing business terminology.
-This "project jargon" makes communication much more effective and eases the interaction between
+This "project jargon" makes communication much more effective and simplifies the interaction between
 customers and developers.
 But what happens once you nailed down the examples?
 
 More often than not, the developers derive the production code
 from the specification on their own.
-_Domain-Specific Languages_ give you a means to involve the customer in this process.
-They give customers and developers another, comprehensive perspective on the solution
+_Domain-Specific Languages_ provide the opportunity to involve the customer in this activity.
+DSLs give customers and developers another, comprehensive perspective on the solution
 and enable a double-checking process.
 Furthermore, Domain-Specific Languages come in different flavours.
 Besides textual formats, you can employ graphical notations that can make the problem
@@ -35,13 +35,10 @@ changes in requirements faster;
 your cutomer can easily read (and maybe even write) the production code, giving the team
 another degree of flexibility in terms of division of work.
 
-After introducing basic concepts and tools of Domain-Dpecific Languages,
+After introducing basic concepts and tools of Domain-Specific Languages,
 Andreas gives a practical example of visually developing an order processing system.
 The presentation will be closed outlining the
 pros and cons of using Domain-Specific Languages.
-<!--
-    technical, economical, and _communicational_
--->
 
 
 Biography
@@ -52,7 +49,7 @@ agile contexts.
 Besides, he explores and promotes innovative ideas as a start-up entrepreneur.
 
 His passion for integrating Test-Driven and Model-Driven Development techniques in agile projects
-stems from his diploma thesis that became published as a conference paper earlier this year.
+stems from his research activities that became published as a conference paper earlier this year.
 He is one of the organizers of the recently founded, regional Software Craftsmanship
 Communities in Germany.
 
