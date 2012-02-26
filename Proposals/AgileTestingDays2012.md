@@ -21,18 +21,14 @@ This "project jargon" makes communication much more effective and eases the inte
 customers and developers.
 But what happens once you nailed down the examples?
 
-More often than not, the developers derive the executable code
+More often than not, the developers derive the production code
 from the specification on their own.
 _Domain-Specific Languages_ give you a means to involve the customer in this process.
 They give customers and developers another, comprehensive perspective on the solution
 and enable a double-checking process.
-Furthermore, domain-specific languages come in different flavours.
+Furthermore, Domain-Specific Languages come in different flavours.
 Besides textual formats, you can employ graphical notations that can make the problem
 more "visible".
-
-<!--
-    Giving you the freedom of choice of the best possible representation for your problem.
--->
 
 DSLs allow you to react to
 changes in requirements faster;
@@ -55,7 +51,7 @@ He works as a self-employed tester-programmer, supporting SMB in test automation
 agile contexts.
 Besides, he explores and promotes innovative ideas as a start-up entrepreneur.
 
-His passion for integrating test-driven and model-driven development techniques in agile projects
+His passion for integrating Test-Driven and Model-Driven Development techniques in agile projects
 stems from his diploma thesis that became published as a conference paper earlier this year.
 He is one of the organizers of the recently founded, regional Software Craftsmanship
 Communities in Germany.
