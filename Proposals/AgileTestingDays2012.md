@@ -23,14 +23,18 @@ documentation, or source code.
 But more often than not, the developers derive the executable code
 from the specification on their own.
 
-Domain-Specific Languages give you a means to involve the customer in this process.
+_Domain-Specific Languages_ give you a means to involve the customer in this process.
+DSLs are computer programming languages of limited expressiveness focused on a particular domain.
 They give customers and developers another, comprehensive perspective on the solution
-and establish a __**double checking**__ process. **Ontop**, domain-specific languages come in
+and establish a double-checking process.
+Furthermore, domain-specific languages come in
 different flavours.
 Besides textual formats, you can employ graphical notations that can make the problem
 more "visible".
 
-<!--    Giving you the freedom of choice of the best possible representation for your problem. -->
+<!--
+    Giving you the freedom of choice of the best possible representation for your problem.
+-->
 
 Having the logical aspects separated from the technical implementation allows you to react to
 changes in requirements faster.
@@ -40,7 +44,7 @@ Last, but not least, domain-specific languages give your team some technical ben
 
 After introducing basic concepts and tools of domain-specific languages,
 Andreas gives a practical example of developing an order processing system visually.
-The presentation will be closed outlining the technical / economical / **communicational**
+The presentation will be closed outlining the technical, economical, and _communicational_
 pros and cons of using domain-specific languages.
 
 
