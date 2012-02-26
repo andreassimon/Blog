@@ -44,7 +44,10 @@ Last, but not least, domain-specific languages give your team some technical ben
 
 After introducing basic concepts and tools of domain-specific languages,
 Andreas gives a practical example of developing an order processing system visually.
-The presentation will be closed outlining the technical, economical, and _communicational_
+The presentation will be closed outlining the
+<!--
+    technical, economical, and _communicational_
+-->
 pros and cons of using domain-specific languages.
 
 
