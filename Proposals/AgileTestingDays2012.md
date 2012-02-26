@@ -1,5 +1,5 @@
 Accelerating the ATDD Cycle with Domain-Specific Languages
-=====================================================
+==========================================================
 <!--
 From Examples to Applications: Domain-Specific Languages
 Facilitating customer communication through
@@ -21,22 +21,19 @@ This "project jargon" makes communication much more effective and simplifies the
 customers and developers.
 But what happens once you nailed down the examples?
 
-More often than not, the developers derive the production code
-from the specification on their own.
+More often than not, programmers implement the production code on their own.
 _Domain-Specific Languages_ provide the opportunity to involve the customer in this activity.
-Because a Domain-Specific Language is limited to your problem domain,
-your customer can easily read (and maybe even write) the production code.
-
-DSLs give customers and developers another, comprehensive perspective on the solution
-and enable a double-checking process.
-Furthermore, Domain-Specific Languages come in different flavours.
-Besides textual formats, you can employ graphical notations that can make the problem
+Besides textual formats, you can also employ graphical notations that can make the problem
 more "visible".
+Because you can design a Domain-Specific Language that is tailored perfectly to your problem domain,
+your customer can easily read (and maybe even write) the production code.
+Domain-Specific Languages give customers and developers another, comprehensive perspective on
+the solution and enable a double-checking process.
+By expressing the production code in terms of the business domain, you can pass
+through the whole ATDD cycle together with your customer.
 
 After introducing basic concepts and tools of Domain-Specific Languages,
 Andreas gives a practical example of visually developing an order processing system.
-The presentation will be closed outlining the
-pros and cons of using Domain-Specific Languages.
 
 
 Biography
@@ -60,10 +57,10 @@ Communities in Germany.
     Eveliina is passionate about the continuous learning and agile testing topics.
 -->
 
+<!--
 [Remarks]
 ---------
 
-<!--
 Topics of interest: 
  * Requirements in Agile Projects
  * Collaboration and Building Teams 
