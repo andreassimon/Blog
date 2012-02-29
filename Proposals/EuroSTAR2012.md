@@ -1,4 +1,4 @@
-Accelerating the ATDD Cycle with Domain-Specific Languages
+Accelerate your ATDD Cycle with Domain-Specific Languages
 ==========================================================
 <!--
 From Examples to Applications: Domain-Specific Languages
@@ -8,11 +8,15 @@ Flip the medal
 Designing a common team domain language
 -->
 
+<!--
+
+ * "Pushing The Boundaries"
+-->
 
 Abstract
 --------
 Learn how to involve your customer not only through acceptance tests, but also through
-custom-made programming languages focused on your particular domain.
+custom-made, easy programming languages focused on your particular domain.
 
 ATDD facilitates the transformation of customer requirements to working software.
 One of the core benefits is the evolution of a common language from
@@ -35,6 +39,32 @@ through the whole ATDD cycle together with your customer.
 
 After introducing concepts and tools of Domain-Specific Languages,
 Andreas gives a practical example of visually developing an order processing system.
+
+Takeaways
+---------
+1. Develop a common project language
+1. Incorporate the domain language into your production code
+1. Build your own programming language as a tool for better team interaction
+
+Speaking Experience
+-------------------
+Regular speaker at user group events / workshops
+
+As an example of my presentations, I give a link to an introduction to Ruby on Rails:
+http://prezi.com/chynst3oayt_/einfuhrung-in-ruby-on-rails-31/
+
+
+Supporting Material
+-------------------
+The idea for this talk stems from a few observations I made during the last Agile Testing Days.
+I summed up my impressions in a blog entry:
+http://andreas-simon.blogspot.com/2011/11/models-at-agile-testing-days-2011.html
+
+My scientfic paper "Using Spring Roo for the Test-Driven Development od Web Applications" 
+will be published during the upcoming ACM Symposium On Applied Computing
+(http://oldwww.acm.org/conferences/sac/sac2012/) in March.
+The paper deals with a specific approach to integrate model-driven development into an agile,
+acceptance-test-driven process.
 
 
 Biography
@@ -62,10 +92,8 @@ Communities in Germany.
 [Remarks]
 ---------
 
-Topics of interest: 
- * Requirements in Agile Projects
- * Collaboration and Building Teams 
+That is why the theme for this year is "Innovate & Renovate: Evolving Testing".
+Innovate: to introduce changes and new ideas
+Renovate: to repair and improve something, restore to life
 
-In general we value technical and practical presentations (e.g. supported by demos)
-more than theoretical ones
 -->
