@@ -1,4 +1,4 @@
-Accelerating the ATDD Cycle with Domain-Specific Languages
+Better customer integration with Domain-Specific Languages
 ==========================================================
 <!--
 From Examples to Applications: Domain-Specific Languages
@@ -14,32 +14,18 @@ Abstract
 Learn how to involve your customer not only through acceptance tests, but also through
 custom-made programming languages focused on your particular domain.
 
-ATDD facilitates the transformation of customer requirements to working software.
-One of the core benefits is the evolution of a common language from
-the existing business terminology.
-This "project jargon" makes communication much more effective and simplifies the interaction between
-customers and developers.
-But what happens once you nailed down the examples?
-
-More often than not, programmers implement the production code on their own.
-_Domain-Specific Languages_ provide the opportunity to involve the whole team in this activity.
-Besides textual formats, you can also employ graphical notations that can make the problem
-more "visible".
-Because you can tailor a language perfectly fitting your business domain,
-your customer can easily read (and maybe even write) the production code.
-Domain-Specific Languages give customers, testers and programmers another, comprehensive
-perspective on
-the solution and enable a double-checking process.
-By expressing the production code in business terms only, you can pass
-through the whole ATDD cycle together with your customer.
-
-After introducing concepts and tools of Domain-Specific Languages,
-Andreas gives a practical example of visually developing an order processing system.
+One of the key points of ATDD is the development of a common "project jargon"
+from the existing business terminology.
+Based on this vocabulary you can create a simple, small programming language on your own.
+Such a _Domain-Specific Language_ enables you to involve your customer not only
+by writing examples,
+but also by developing parts of the production code together.
+Andreas will give you a glimpse of what you can achieve with modern language tools.
 
 
 Biography
 ---------
-Andreas holds a diploma degree in Information Systems from the University of Muenster.
+Andreas Simon holds a diploma degree in Information Systems from the University of Muenster.
 He works as a self-employed tester-programmer, supporting SMB in test automation efforts in
 agile contexts.
 Besides, he explores and promotes innovative ideas as a start-up entrepreneur.
